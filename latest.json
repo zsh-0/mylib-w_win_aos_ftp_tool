@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "mylib-w-win-aos-ftp-tool",
+  "source": "github",
+  "version": "1.0.0",
+  "package_name": "mylib-w-win-aos-ftp-tool-v1.0.0.exe",
+  "package_parts": [
+    {
+      "name": "mylib-w-win-aos-ftp-tool-v1.0.0.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_win_aos_ftp_tool/releases/download/mylib-w-win-aos-ftp-tool-v1.0.0/mylib-w-win-aos-ftp-tool-v1.0.0.exe.part001",
+      "sha256": "ab14c07eb7e35abfc842e7052c4d1a15cc187554285a26b482f2d62b1ea47c7c",
+      "size": 58127500
+    }
+  ],
+  "sha256": "ab14c07eb7e35abfc842e7052c4d1a15cc187554285a26b482f2d62b1ea47c7c",
+  "size": 58127500,
+  "notes": "V1.0.0\n1、首次发布，支持局域网内跨平台、跨设备传输文件",
+  "mandatory": false,
+  "published_at": "2026-11-12T02:27:37+00:00"
+}
